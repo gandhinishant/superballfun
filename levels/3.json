@@ -1,0 +1,26 @@
+{
+    "sizeX": 6,
+    "sizeY": 10,
+    "total_balls": 10,
+    "balls_to_win": 6,
+
+    "total_pegs": {
+        "PLAIN": 6,
+        "BOUNCY": 5,
+        "SPLITTER": 2,
+        "EXPLODE": 2
+    },
+
+    "map": [
+        "PLAIN", "EMPTY", "SPLITTER", "EMPTY", "PLAIN", "EMPTY",
+        "EMPTY", "EXPLODE", "EMPTY", "PLAIN", "EMPTY", "EMPTY",
+        "EMPTY", "EMPTY", "PLAIN", "EMPTY", "EMPTY", "SPLITTER",
+        "BOUNCY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "BOUNCY",
+        "EMPTY", "EMPTY", "EMPTY", "EXPLODE", "EMPTY", "EMPTY",
+        "EMPTY", "BOUNCY", "EMPTY", "EMPTY", "EMPTY", "EMPTY",
+        "PLAIN", "EMPTY", "EMPTY", "PLAIN", "EMPTY", "EMPTY",
+        "EMPTY", "EMPTY", "PLAIN", "EMPTY", "EMPTY", "EMPTY",
+        "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY",
+        "BOUNCY", "BOUNCY", "GOAL", "BOUNCY", "BOUNCY", "BOUNCY"
+    ]
+}

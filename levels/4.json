@@ -1,0 +1,30 @@
+{
+    "sizeX": 8,
+    "sizeY": 13,
+    "total_balls": 14,
+    "balls_to_win": 6,
+
+    "total_pegs": {
+        "PLAIN": 15,
+        "BOUNCY": 10,
+        "SPLITTER": 3,
+        "EXPLODE": 3,
+        "CONFETTI": 2
+    },
+
+    "map": [
+        "EMPTY", "PLAIN", "EMPTY", "BOUNCY", "EMPTY", "PLAIN", "EMPTY", "EMPTY",
+        "SPLITTER", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "SPLITTER",
+        "EMPTY", "BOUNCY", "EMPTY", "PLAIN", "EMPTY", "BOUNCY", "EMPTY", "EMPTY",
+        "EMPTY", "EMPTY", "EXPLODE", "EMPTY", "EXPLODE", "EMPTY", "EMPTY", "EMPTY",
+        "PLAIN", "EMPTY", "EMPTY", "CONFETTI", "EMPTY", "EMPTY", "PLAIN", "EMPTY",
+        "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY",
+        "BOUNCY", "EMPTY", "PLAIN", "EMPTY", "PLAIN", "EMPTY", "BOUNCY", "EMPTY",
+        "EMPTY", "EMPTY", "CONFETTI", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY",
+        "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY",
+        "EMPTY", "PLAIN", "EMPTY", "EMPTY", "EMPTY", "PLAIN", "EMPTY", "EMPTY",
+        "SPLITTER", "EMPTY", "BOUNCY", "EMPTY", "BOUNCY", "EMPTY", "EMPTY", "EMPTY",
+        "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY",
+        "BOUNCY", "BOUNCY", "EMPTY", "GOAL", "BOUNCY", "BOUNCY", "EMPTY", "EMPTY"
+    ]
+}
